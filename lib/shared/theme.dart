@@ -4,6 +4,8 @@ const double defaultMargin = 24;
 Color mainColor = Color(0xFF2E97FB);
 Color accentColor3 = Color(0xFFADADAD); //greey
 Color accentColor2 = Color(0xFFF9B72E);
+Color backColor = Color(0xFFF3F9FF);
+Color unselectedColor = Color(0xFFD3D3D3);
 
 TextStyle blackTextFont = GoogleFonts.raleway()
     .copyWith(color: Colors.black, fontWeight: FontWeight.w500);
