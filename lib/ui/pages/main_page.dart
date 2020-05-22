@@ -36,9 +36,7 @@ class _MainPageState extends State<MainPage> {
               });
             },
             children: <Widget>[
-              Center(
-                child: Text("Home"),
-              ),
+              MoviePage(),
               Center(
                 child: Text("Cart"),
               ),
